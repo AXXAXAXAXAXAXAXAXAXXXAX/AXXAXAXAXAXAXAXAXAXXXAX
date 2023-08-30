@@ -8,6 +8,6 @@
   <p align="center">
     Улитка заходит в бар, но бармен заявляет: "У нас строгая политика в отношении улиток!" — и ногой выпихивает ее на улицу. Через неделю улитка возвращается в бар и говорит бармену: "Ну и нахуя ты это сделал!?"
     <br />
-    <img src="https://img2.freepng.ru/20180708/itw/kisspng-smiley-emoticon-computer-icons-clip-art-joke-5b41ae5d2fea33.8496941415310311331963.jpg" alt="xdxdxd" width="200" />
+    <img src="https://drasler.ru/wp-content/uploads/2019/05/Картинки-смайлики-на-прозрачном-фоне-023.jpg" alt="xdxdxd" width="200" />
   </p>
 </details>
