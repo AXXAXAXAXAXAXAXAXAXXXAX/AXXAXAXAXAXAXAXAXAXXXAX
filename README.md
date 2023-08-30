@@ -3,7 +3,7 @@
 <a href="https://github.com/noscope096">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noscope096&layout=compact&theme=dark" />
 </a>
-<details>
+<details align="center">
   <summary><strong>❗️АНЕКДОТ❗️</strong></summary>
   <p align="center">
     Улитка заходит в бар, но бармен заявляет: "У нас строгая политика в отношении улиток!" — и ногой выпихивает ее на улицу. Через неделю улитка возвращается в бар и говорит бармену: "Ну и нахуя ты это сделал!?"
