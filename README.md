@@ -4,5 +4,5 @@
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt" />
 </a>
 <a href="https://github.com/noscope096">
-  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noscope096&layout=compact" />
+  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noscope096&layout=compact&theme=dark" />
 </a>
