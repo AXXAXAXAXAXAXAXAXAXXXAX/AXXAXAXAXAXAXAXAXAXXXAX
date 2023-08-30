@@ -6,4 +6,3 @@
 <a href="https://github.com/noscope096">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noscope096&layout=compact" />
 </a>
-[Total Programming Time](https://img.shields.io/badge/total%20time%20spent%20on%20programming-1000%20hours-blue)
