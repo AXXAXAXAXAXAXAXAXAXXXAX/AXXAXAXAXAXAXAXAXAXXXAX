@@ -6,3 +6,4 @@
 <a href="https://github.com/noscope096">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noscope096&layout=compact" />
 </a>
+[![Wakatime Stats](https://wakatime.com/badge/user/cvtcvtcvt.svg)](https://wakatime.com/@cvtcvtcvt.svg)
