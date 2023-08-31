@@ -3,8 +3,9 @@
 <a align="center" href="https://github.com/modeamnyam">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modeamnyam&layout=compact&theme=dark" />
 </a>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt)](https://github.com/anuraghazra/github-readme-stats)
-
+<a align="center" href="https://github.com/modeamnyam">
+  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt&theme=dark" />
+</a>
 <details align="center">
   <summary><strong>❗️АНЕКДОТ❗️</strong></summary>
   <p align="center">
