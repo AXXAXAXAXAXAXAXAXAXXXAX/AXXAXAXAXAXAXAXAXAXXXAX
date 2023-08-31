@@ -4,7 +4,7 @@
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modeamnyam&layout=compact&theme=dark" />
 </a>
 <a align="center" href="https://github.com/modeamnyam">
-  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt&theme=dark" />
+  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt&theme=dark&layout=compact" />
 </a>
 <details align="center">
   <summary><strong>❗️АНЕКДОТ❗️</strong></summary>
