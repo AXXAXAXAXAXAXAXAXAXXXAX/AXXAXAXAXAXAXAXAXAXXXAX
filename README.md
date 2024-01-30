@@ -3,7 +3,7 @@
 <a align="center" href="https://github.com/AXXAXAXAXAXAXAXAXAXXXAX">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modeamnyam&layout=compact&theme=dark" />
 </a>
-<a align="center" href="https://github.com/modeamnyam">
+<a align="center" href="https://github.com/AXXAXAXAXAXAXAXAXAXXXAX">
   <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cvtcvtcvt&theme=dark&layout=compact" />
 </a>
 <details align="center">
